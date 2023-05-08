@@ -1,0 +1,4 @@
+Product Name 	 Quantity 	 Rate
+AAA 		 3 		 50
+BBB 		 2 		 100
+CCC 		 4 		 40

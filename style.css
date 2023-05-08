@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: linear-gradient(to right, white,grey)
+}
+/*Heading styles*/
+.top h1{
+	background-color: blue;
+	color: black;
+	margin-top: 25px;
+	/*margin-left: 25px;*/
+	text-shadow: rgb(#000);
+}
